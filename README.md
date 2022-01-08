@@ -5,4 +5,4 @@
 ##  Task 
 -   [ ] To visualize main code from `MSP-TI` to public so that an effective code will be made.
 -   [ ] Follow previous rules to hide vulnerable details for security reasons.
--   [ ] Next  
+-   [ ] Next.
