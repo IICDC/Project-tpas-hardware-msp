@@ -2,4 +2,6 @@
 
 ## Hardware assistant to network [[1](https://github.com/IICDC/MSP-Ti)]
 
-##  wh 
+##  Task 
+-   []  To visualize main code from `MSP-TI` to public so that an effective code will be made
+-   []  Next...
